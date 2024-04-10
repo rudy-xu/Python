@@ -1,0 +1,9 @@
+2024-04-10 15:32:10,259 - example, INFO: This is an info message
+2024-04-10 15:32:10,259 - example, DEBUG: This is a warning message
+2024-04-10 15:32:10,259 - example, ERROR: This is an error message
+2024-04-10 15:32:10,260 - example, INFO: Doing something
+2024-04-10 15:34:38,288 - example, INFO: This is an info message
+2024-04-10 15:34:38,288 - example, DEBUG: This is a warning message
+2024-04-10 15:34:38,289 - example, ERROR: This is an error message
+2024-04-10 15:34:38,289 - example, INFO: Doing something
+2024-04-10 15:34:38,289 - example, INFO: Doing something else
